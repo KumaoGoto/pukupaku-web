@@ -3,7 +3,7 @@
 // 新しい置き場を作って古い置き場を捨てる。中身の変わっていないファイルは古い置き場から移す（更新のたびに全部を取り直さない）。
 // 公開の形（tools/web/stage.py）では、プログラムは版ごとの箱 v/<VERSION>/ に入り、PRECACHE もその場所に書き換わる。
 
-const VERSION = 'a607fec1cfcb';
+const VERSION = '117961900a9b';
 const PRECACHE = {
   'assets/AssetManifest.bin': 'fd44d9b28f78a972',
   'assets/AssetManifest.bin.json': '8f58d220e1f1632f',
@@ -103,19 +103,19 @@ const PRECACHE = {
   'assets/assets/images/text/whale_merge_ja.png': '57860d417d2410fc',
   'assets/fonts/MaterialIcons-Regular.otf': '5a577e1ab8c3f73d',
   'assets/packages/cupertino_icons/assets/CupertinoIcons.ttf': '3d90c370aa4cf00d',
-  'v/a607fec1cfcb/assets/packages/forge2d/lib/src/backend/wasm/box2d.wasm': '33cfc1f30ef9aa3e',
+  'v/117961900a9b/assets/packages/forge2d/lib/src/backend/wasm/box2d.wasm': '33cfc1f30ef9aa3e',
   'assets/shaders/ink_sparkle.frag': '2dca5ab93d4ec29e',
   'assets/shaders/stretch_effect.frag': 'ab412f07a5b9b50b',
-  'v/a607fec1cfcb/canvaskit/canvaskit.js': '7361b744487f9826',
-  'v/a607fec1cfcb/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
-  'v/a607fec1cfcb/flutter_bootstrap.js': '0bd0bacd841a01b5',
+  'v/117961900a9b/canvaskit/canvaskit.js': '7361b744487f9826',
+  'v/117961900a9b/canvaskit/canvaskit.wasm': '6bdfaa51c76845c0',
+  'v/117961900a9b/flutter_bootstrap.js': '0bd0bacd841a01b5',
   'icons/apple-touch-icon.png': '60710a0b27426736',
   'icons/favicon-32.png': 'c30c51ba578d2fb7',
   'icons/icon-192.png': '8ac21a49f7e7440e',
   'icons/icon-512.png': 'd51d9dd23e2aec0b',
   'icons/icon-maskable-512.png': '8f25add9d77ff8d9',
-  'index.html': 'a607fec1cfcb',
-  'v/a607fec1cfcb/main.dart.js': 'fa155e183528049a',
+  'index.html': '117961900a9b',
+  'v/117961900a9b/main.dart.js': '0a6860c02ab7479c',
   'manifest.webmanifest': '27a49eb362c2df58',
 };
 // @@PRECACHE_END
